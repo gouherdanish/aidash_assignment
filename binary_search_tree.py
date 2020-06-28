@@ -37,7 +37,7 @@ class BinaryProblem:
                 False - if trees are not mirror
         """
         
-        # Empty Trees
+        # Empty Trees are considered mirror
         if tree1 is None and tree2 is None: 
             return True
         
@@ -56,6 +56,7 @@ class BinaryProblem:
     def convert_to_list(self, mystr):
         """
         Splits the user input based on space character
+        
         input: mystr - string
         output: arr - list of strings
         """
