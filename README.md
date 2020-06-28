@@ -4,13 +4,13 @@
 
 Given a rectangular matrix of size M x N. Need to implement a method of printing the given matrix in spiral form. For e.g.
 
-![matrix_spiral](snapshots/snapshot_matrix_1.png)
+![matrix spiral](snapshots/snapshot_matrix_1.png)
 
 ## Problem 2 - 
 
 Given 2 binary search trees. Need to implement a method to check if 2 trees are mirror image of each other or not. 
 
-![binary_trees_mirror](snapshots/snapshot_binary_tree_3.png)
+![binary trees mirror](snapshots/snapshot_binary_tree_ex3.png)
 
 
-![binary_trees_mirror](snapshots/snapshot_binary_tree_4.png)
+![binary trees mirror](snapshots/snapshot_binary_tree_ex4.png)
